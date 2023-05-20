@@ -18,6 +18,7 @@ class Student():
 dnev = Diary()
 
 # считывание учеников из базы данных (из файла)
+# коммент
 
 f = open("diary.txt", "r")
 while True:
